@@ -2,7 +2,7 @@
 Собрана с помощью make под linux. 
 Программа подсчитывает TCP-пакеты  протокола  IPv4. 
 Фильтры можно комбинировать
-Дамп сетевого трафика был сделан с помощью WireShark b сохранен в pcap-файл TCP_dump.pcap
+Дамп сетевого трафика был сделан с помощью WireShark и сохранен в pcap-файл TCP_dump.pcap
 
 Тестирование работоспособности программы при разнных вводных
 
@@ -46,3 +46,4 @@ Filtered TCP count: 2
 Total packet count: 1099
 TCP packet count: 1083
 Filtered TCP count: 0
+
